@@ -1,0 +1,31 @@
+[{
+        "id": "1",
+        "pageName": "home",
+        "bannerTitle": null,
+        "products": null
+    },
+    {
+        "id": "2",
+        "pageName": "brand",
+        "bannerTitle": "The Brand",
+        "bannerSubtitle": "Company slogan",
+        "items": null,
+        "products": null
+
+    },
+    {
+        "id": "3",
+        "pageName": "product",
+        "bannerTitle": "Product View",
+        "bannerSubtitle": "categories"
+
+    },
+    {
+        "id": "4",
+        "pageName": "register",
+        "bannerTitle": "Welcome",
+        "bannerSubtitle": "Sign in or register",
+        "items": null,
+        "products": null
+    }
+]

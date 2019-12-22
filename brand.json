@@ -1,0 +1,21 @@
+[{
+        "id": "01",
+        "img_url": "/images/brand1.jpg",
+        "title": "Our values, vision & strategy",
+        "text": "The above image would be a great place for an advertising video",
+        "textSec": "Cras maximus venenatis malesuada. Nulla sagittis elit felis, ac facilisis.Cras maximus venenatis malesuada.Pla sagittis elit felis, acfacilisis.Venenatis malesuada.Nulla sagittis elit felis, ac facilisis "
+    },
+    {
+        "id": "02",
+        "img_url": "/images/brand2.jpg",
+        "title": "Hand designed clothing",
+        "text": "Established in 2013, avenue fashion Sed dictum elit vel sapien luctus eras",
+        "textSec": "Nulla sagittis elit felis. Cras maximus venenatis malesuada, ac facilisis.Cras maximus venenatis malesuada.Pla sagittis elit felis, acfacilisis.Venenatis malesuada.Nulla sagittis elit felis, ac facilisis "
+    }, {
+        "id": "03",
+        "img_url": "/images/brand3.jpg",
+        "title": "Ethical trading",
+        "text": "We oversee the working conditions of the people in the supply chain",
+        "textSec": "Elit felis cras maximus venenatis malesuada, noras pustao uac facilisis.Cras maximus venenatis malesuada.Pla sagittis elit felis, acfacilisis.Venenatis malesuada.Nulla sagittis elit felis, ac facilisis "
+    }
+]

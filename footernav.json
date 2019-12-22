@@ -1,0 +1,56 @@
+ [{
+         "id": "1",
+         "headline": "Information",
+         "links": [
+             "The brand",
+             "Local Stores",
+             "Customer Service",
+             "Privacy Policy",
+             "Site Map"
+         ]
+     },
+     {
+         "id": "2",
+         "headline": "Why buy from us",
+         "links": [
+             "Shipping & returns",
+             "Secure Shopping",
+             "Testimonials",
+             "Award winning",
+             "Ethical trading"
+         ]
+     },
+     {
+         "id": "3",
+         "headline": "Your account",
+         "links": [
+             "Sign on",
+             "Register",
+             "View cart",
+             "View your lookbook",
+             "Track an order",
+             "Update information"
+         ]
+     },
+     {
+         "id": "4",
+         "headline": "Lookbook",
+         "links": [
+             "Latest posts",
+             "Men´s lookbok",
+             "Women´s lookbook",
+             "Lookbooks RSS feed",
+             "View your lookbook",
+             "Delete your lookbook"
+         ]
+     },
+     {
+         "id": "5",
+         "contact": "Contact details",
+         "street": "Head Office: Avenue Fashion,",
+         "postal": "180-182 Regent Street, London.",
+         "phone": "Telephone: 0123-456-789",
+         "email": "Email: support@yourwebsite.com"
+     }
+
+ ]

@@ -1,0 +1,19 @@
+[{
+        "id": "01",
+        "img_url": "/images/mens-look_@3x.png",
+        "headline": "Men´s",
+        "story": "Lorem ipsum dolor sit amet eras facilisis consectetur adipiscing elit lor, integer lorem consecteur dignissim laciniqui. Elementum metus facilisis ut phasellu."
+    },
+    {
+        "id": "02",
+        "img_url": "/images/womens-look_@3x.png",
+        "headline": "Women´s",
+        "story": "Lorem ipsum dolor sit amet eras facilisis consectetur adipiscing elit lor, integer lorem consecteur dignissim laciniqui. Elementum metus facilisis ut phasellu."
+    },
+    {
+        "id": "03",
+        "img_url": "/images/photo-silhouette_@3x.png",
+        "headline": "Your",
+        "story": "Lorem ipsum dolor sit amet eras facilisis consectetur adipiscing elit lor, integer lorem consecteur dignissim laciniqui. Elementum metus facilisis ut phasellu."
+    }
+]

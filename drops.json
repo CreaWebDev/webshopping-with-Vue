@@ -1,0 +1,22 @@
+[{
+        "id": "01",
+        "category": "casuals",
+        "items": [
+            "Jackets",
+            "Hoodies & Sweatshirts",
+            "Polo Shirts",
+            "Sportswear",
+            "Trousers & Chinos",
+            "T-Shirts"
+        ]
+    },
+    {
+        "id": "02",
+        "category": "formals",
+        "items": ["Jackets",
+            "Shirts",
+            "Suits",
+            "Trousers"
+        ]
+    }
+]
